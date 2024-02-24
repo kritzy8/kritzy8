@@ -1,10 +1,10 @@
-it's me, hi!
-i'm kritzy_8
-i'm a graphic designer
-i'm a photographer
-i'm a swiftie
-i'm a minecraft player
-i'm in my ttpd era
+it's me, hi!\
+i'm kritzy_8\
+i'm a graphic designer\
+i'm a photographer\
+i'm a swiftie\
+i'm a minecraft player\
+i'm in my ttpd era\
 all’s fair in love and poetry
 
 <!---
